@@ -11,3 +11,4 @@ if __name__ == "__main__":
     print("Product:", multiply(x, y))
 
 print("hello world")
+print("hello majid")
