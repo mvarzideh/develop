@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print("Sum:", add(x, y))
     print("Product:", multiply(x, y))
 
+print("hello world")
